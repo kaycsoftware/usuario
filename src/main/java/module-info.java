@@ -13,4 +13,6 @@ module org.usuario {
 
     opens org.usuario to javafx.fxml;
     exports org.usuario;
+    exports org.usuario.controller;
+    opens org.usuario.controller to javafx.fxml;
 }
