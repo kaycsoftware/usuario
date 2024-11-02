@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdcc3a8-2f5d-4b44-96f3-8583b8b2629c" name="Changes" comment="comit">
+    <list default="true" id="3fdcc3a8-2f5d-4b44-96f3-8583b8b2629c" name="Changes" comment="comit menu">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/usuario/model/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/usuario/appmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/usuario/appmain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/usuario/controller/Maincontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/usuario/controller/Maincontroller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/usuario/view/mainview.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/usuario/view/mainview.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
       <list>
         <option value="package-info" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730502828563</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="comit menu">
+      <created>1730505804113</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730505804113</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,7 +106,8 @@
     <MESSAGE value="estruturou e projeto javafx" />
     <MESSAGE value="fmx" />
     <MESSAGE value="comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit" />
+    <MESSAGE value="comit menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit menu" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
